@@ -1,6 +1,6 @@
 # 你好，我是Yueosa
 
-👋 欢迎来到我的GitHub主页，我目前正在学习Java和Python相关的额后端知识，同时也懂一些 HTML, CSS, and JavaScript 之类的前端语言。 😄
+👋 欢迎来到我的GitHub主页，我目前正在学习Java和Python相关的后端知识，同时也懂一些 HTML, CSS, and JavaScript 之类的前端语言。 😄
 
 ## 📚现在
 
