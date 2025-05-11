@@ -24,6 +24,7 @@
 - 🔴 PyTorch 文本建模（LLM 训练机制）
 - 🟠 LangChain / Streamlit（AI 应用快速原型）
 - 🟡 数据库 + 检索系统（MariaDB / Milvus）
+- 🟡 ArchLinux 系统
 
 如果你也在为“如何学会思考 + 做出点东西”而努力，我们或许会聊得来。
 
