@@ -22,8 +22,6 @@
 
 正在 Arch Linux 环境中安静地搭建一切，  
 在命令行与代码中练习沉默，也努力找回表达。  
-我报名了几个比赛，有的关于 AI，有的关于现实世界——  
-比起胜负，我更想在其中找到我是谁。
 
 学习的东西很多：Python、pandas、PyTorch、LangChain、Streamlit、MariaDB、Arch 配置……  
 
