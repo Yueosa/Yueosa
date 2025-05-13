@@ -37,10 +37,12 @@
 
 ### | 🔧 Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=flask,vscode,pycharm,vim,git&theme=light)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" height="28" />
 
 ### | 📚 Libraries & Packages
 [![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,selenium&theme=light)](https://skillicons.dev)
+
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" height="28" />
 
 ### | 🖼️ Web & Deployment
