@@ -3,7 +3,7 @@
 </a>
 
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Arch.png" width="48%" style="margin-top:0px; margin-right:60px;" />
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Arch.png" width="45%" style="margin-top:0px; margin-right:60px;" />
 
 ![Yueosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yueosa&show_icons=true&theme=catppuccin_latte)
 
