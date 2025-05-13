@@ -2,13 +2,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakura" alt="Typing SVG" />
 </a>
 
-
 <img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Arch.png" width="35%" style="margin-top:0px; margin-right:0px;" />
 
 ![Yueosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yueosa&show_icons=true&theme=catppuccin_latte)
 
 ### | ❝ 被你读到的这一页 ❞
-
 
 有些人注定行走于消逝的路途，执念于未能久留的痕迹；  
 我在梦中徘徊，试图触碰那虚无中残存的温度；  
@@ -55,6 +53,7 @@
 [![My Skills](https://skillicons.dev/icons?i=github,mysql,sqlite&theme=light)](https://skillicons.dev)
 
 </details>
+
 <br>
 <details>
     <summary><strong>| 💻 设备</strong></summary>
@@ -64,6 +63,7 @@
 ### | 🧠 开发环境
 
 [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org) [![KDE](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com)
+
 ---
 
 ### | 🎮 日常游戏系统
@@ -78,8 +78,6 @@
 
 ![Galgame](https://img.shields.io/badge/Galgame%20Lover-EC407A?style=flat-square&logo=visualstudiocode&logoColor=white) ![近月少女的礼仪](https://img.shields.io/badge/近月少女的礼仪-FC8EAC?style=flat-square&logoColor=white) ![死馆](https://img.shields.io/badge/死馆-3E3A39?style=flat-square&logoColor=white)
 
-
-
 ---
 
 ### | 📘 学习系统
@@ -93,14 +91,13 @@
 
 [![OPPO Reno ACE](https://img.shields.io/badge/OPPO_Reno_ACE-009688?style=flat-square&logo=oppo&logoColor=white)](https://www.oppo.com) [![OnePlus Pad](https://img.shields.io/badge/OnePlus_Pad-EB0029?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com) [![Edifier WNB820](https://img.shields.io/badge/Edifier_WNB820-000000?style=flat-square&logo=edifier&logoColor=white)](https://www.edifier.com)
 
-
-
 </details>
 
 ### | 留给那些 ![注定](https://img.shields.io/badge/注定-2c2c2c?style=flat-square&labelColor=2c2c2c&color=9e9e9e) 与 ![我](https://img.shields.io/badge/我-000000?style=flat-square&labelColor=ffffff&color=000000) ~~相遇~~ 的 ![你](https://img.shields.io/badge/你-e91e63?style=flat-square&labelColor=ffffff&color=e91e63) ✉️
 
 
 [![GitHub](https://img.shields.io/badge/@Yueosa-181717.svg?style=for-the-badge&logo=GitHub)](https://github.com/Yueosa) [![Bilibili](https://img.shields.io/badge/The--Herta-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/433677987) [![Twitter](https://img.shields.io/badge/@Yosa04942475621-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Yosa04942475621) [![Email](https://img.shields.io/badge/Email-me-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yichegnxin7@gmail.com)
+
 ---
 
 ```
