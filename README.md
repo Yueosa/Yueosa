@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakura" alt="Typing SVG" />
 </a>
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Arch.png" width="35%" style="margin-top:0px; margin-right:0px;" />
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Arch.png" width="35%" style="margin-top:0px; margin-right:50px;" />
 
 ![Yueosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yueosa&show_icons=true&theme=catppuccin_latte)
 
