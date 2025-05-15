@@ -22,6 +22,7 @@
 在命令行与代码中练习沉默，也努力找回表达。  
 
 学习的东西很多：Python、pandas、PyTorch、LangChain、Streamlit、MariaDB、Arch 配置……  
+最近在做一个大项目~ NLP相关，加上Neo4j和Knowledge Graph
 
 ---
 
