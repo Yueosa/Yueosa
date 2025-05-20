@@ -31,29 +31,47 @@
 <details>
     <summary><strong>| 🛠️ 技术经验</strong></summary>
 
+> 有经验不等于精通(学的越多, 其实学的越少
+
 ### | 🧾 Languages
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,matlab&theme=light)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,scss&theme=light)](https://skillicons.dev)
+
 
 ### | 🔧 Frameworks & Tools
 [![My Skills](https://skillicons.dev/icons?i=flask,vscode,pycharm,vim,git&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nuxt,fastapi&theme=light)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28" />
+
 
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" height="28" />
 
 ### | 📚 Libraries & Packages
 [![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,selenium&theme=light)](https://skillicons.dev)
 
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat&logo=python&logoColor=white" height="28" />
+
 <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" height="28" />
 
 ### | 🖼️ Web & Deployment
 [![My Skills](https://skillicons.dev/icons?i=nginx,vue&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pnpm&theme=light)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/systemd-0095D5?style=flat&logo=linux&logoColor=white" height="28" />
+
 
 ### | ☁️ Environment & Systems
 [![My Skills](https://skillicons.dev/icons?i=arch,linux,windows&theme=light)](https://skillicons.dev)
 
 ### | 💾 Databases & Services
 [![My Skills](https://skillicons.dev/icons?i=github,mysql,sqlite&theme=light)](https://skillicons.dev)
+
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="28" />
+
 
 </details>
 
@@ -92,7 +110,8 @@
 
 ### 📱 移动设备 & 外设
 
-[![OPPO Reno ACE](https://img.shields.io/badge/OPPO_Reno_ACE-009688?style=flat-square&logo=oppo&logoColor=white)](https://www.oppo.com) [![OnePlus Pad](https://img.shields.io/badge/OnePlus_Pad-EB0029?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com) [![Edifier WNB820](https://img.shields.io/badge/Edifier_WNB820-000000?style=flat-square&logo=edifier&logoColor=white)](https://www.edifier.com)
+[![OPPO Reno ACE](https://img.shields.io/badge/OPPO_Reno_ACE-009688?style=flat-square&logo=oppo&logoColor=white)](https://www.oppo.com) [![OnePlus Pad](https://img.shields.io/badge/OnePlus_Pad-EB0029?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com) [![Edifier WNB820](https://img.shields.io/badge/Edifier_WNB820-000000?style=flat-square&logo=edifier&logoColor=white)](https://www.edifier.com) [![前行者 X87 Ultra](https://img.shields.io/badge/前行者_X87_Ultra-FF69B4?style=flat-square&logo=mechanical-keyboard&logoColor=white)](https://item.taobao.com/item.htm?id=720931275829)
+
 
 </details>
 
