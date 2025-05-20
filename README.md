@@ -23,8 +23,7 @@
 正在 Arch Linux 环境中安静地搭建一切，  
 在命令行与代码中练习沉默，也努力找回表达。  
 
-学习的东西很多：Python、pandas、PyTorch、LangChain、Streamlit、MariaDB、Arch 配置……  
-最近在做一个大项目~ NLP相关，加上Neo4j和Knowledge Graph
+**最近在学习Nuxt, 顺便参加了点项目, 报名了几个比赛玩玩**
 
 ---
 
