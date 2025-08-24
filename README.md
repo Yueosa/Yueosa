@@ -27,51 +27,35 @@
 ---
 
 <details>
-    <summary><strong>| 🛠️ 技术经验</strong></summary>
+<summary><strong>| 🛠️ 技术经验</strong></summary>
 
-> 有经验不等于精通(学的越多, 其实学的越少
+> 有经验不等于精通(学的越多, 其实学的越少)
 
 ### | 🧾 Languages
-
-[![My Skills](https://skillicons.dev/icons?i=python,java,matlab&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,md&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,md&theme=light)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=ts,scss&theme=light)](https://skillicons.dev)
 
-
 ### | 🔧 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=flask,vscode,pycharm,vim,git&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nuxt,fastapi&theme=light)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=flask,vscode,pycharm,vim,git&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=nuxt,fastapi&theme=light)](https://skillicons.dev)  
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28" />
 
-
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white" alt="Anaconda" height="28" />
-
 ### | 📚 Libraries & Packages
-[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,selenium&theme=light)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat&logo=python&logoColor=white" height="28" />
-
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" height="28" />
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,selenium&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat&logo=python&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" height="28" />
 
 ### | 🖼️ Web & Deployment
-[![My Skills](https://skillicons.dev/icons?i=nginx,vue&theme=light)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=pnpm&theme=light)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/systemd-0095D5?style=flat&logo=linux&logoColor=white" height="28" />
-
+[![My Skills](https://skillicons.dev/icons?i=nginx,vue,nodejs,npm,pnpm&theme=light)](https://skillicons.dev)
 
 ### | ☁️ Environment & Systems
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,linux,windows&theme=light)](https://skillicons.dev)
 
 ### | 💾 Databases & Services
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,sqlite&theme=light)](https://skillicons.dev)
-
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" height="28" />
-
+[![My Skills](https://skillicons.dev/icons?i=github,mysql,sqlite,postgres&theme=light)](https://skillicons.dev)  
 
 </details>
+
 
 <br>
 <details>
@@ -116,7 +100,7 @@
 ### | 留给那些 ![注定](https://img.shields.io/badge/注定-2c2c2c?style=flat-square&labelColor=2c2c2c&color=9e9e9e) 与 ![我](https://img.shields.io/badge/我-000000?style=flat-square&labelColor=ffffff&color=000000) ~~相遇~~ 的 ![你](https://img.shields.io/badge/你-e91e63?style=flat-square&labelColor=ffffff&color=e91e63) ✉️
 
 
-[![GitHub](https://img.shields.io/badge/@Yueosa-181717.svg?style=for-the-badge&logo=GitHub)](https://github.com/Yueosa) [![Bilibili](https://img.shields.io/badge/The--Herta-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/433677987) [![Twitter](https://img.shields.io/badge/@Yosa04942475621-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Yosa04942475621) [![Email](https://img.shields.io/badge/Email-me-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yichegnxin7@gmail.com)
+[![Bilibili](https://img.shields.io/badge/The--Herta-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/433677987) [![Twitter](https://img.shields.io/badge/@Yosa04942475621-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Yosa04942475621) [![Email](https://img.shields.io/badge/Email-me-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yichegnxin7@gmail.com)
 
 ---
 
@@ -125,4 +109,5 @@
 > [2024-06-09 08:48:29]  
 > "这不是你亲手开启的故事吗？"
 ```
+
 
