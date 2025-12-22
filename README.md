@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakura" alt="Typing SVG" />
 </a>
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurya0v0.jpg" width="40%" style="margin-right: 200px;"/>
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="40%" style="margin-right: 200px;"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine)
 
@@ -112,6 +112,7 @@
 > [2024-06-09 08:48:29]  
 > "这不是你亲手开启的故事吗？"
 ```
+
 
 
 
