@@ -22,82 +22,88 @@
 
 正在 Arch Linux 环境中安静地搭建一切，  
 在命令行与代码中练习沉默，也努力找回表达。  
-| 最近在做什么？
-
-做Agent框架, 学习Rust语言
 
 ---
+
 
 <details>
 <summary><strong>| 🛠️ 技术经验</strong></summary>
 
-> 有经验不等于精通(学的越多, 其实学的越少)
+> 有经验不等于精通  
+> 学得越深，越知道世界的边界在哪里
+
+---
 
 ### | 🧾 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,md&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=ts,scss&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,rust&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,md,scss&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/Assembly-Low_Level-555555?style=flat-square" height="28" />
+
+---
 
 ### | 🔧 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=flask,vscode,pycharm,vim,git&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=nuxt,fastapi&theme=light)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" height="28" />
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,nuxt,vue,nodejs&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,vim&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/Valaxy-Blog_Framework-42b883?style=flat-square" height="28" />  
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />
+
+---
 
 ### | 📚 Libraries & Packages
-[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv,selenium&theme=light)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=plotly&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/BeautifulSoup-004C3F?style=flat&logo=python&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" />  <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white" height="28" />
+[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28" />  
+<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" />
 
-### | 🖼️ Web & Deployment
-[![My Skills](https://skillicons.dev/icons?i=nginx,vue,nodejs,npm,pnpm&theme=light)](https://skillicons.dev)
-
-### | ☁️ Environment & Systems
-[![My Skills](https://skillicons.dev/icons?i=arch,ubuntu,linux,windows&theme=light)](https://skillicons.dev)
+---
 
 ### | 💾 Databases & Services
-[![My Skills](https://skillicons.dev/icons?i=github,mysql,sqlite,postgres&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,github&theme=light)](https://skillicons.dev)
+
+---
+
+### | ☁️ Environment & Systems
+[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,wayland&theme=light)](https://skillicons.dev)  
+<img src="https://img.shields.io/badge/Hyprland-Wayland_Compositor-7f52ff?style=flat-square" height="28" />  
+<img src="https://img.shields.io/badge/Linux-System_Tuning-000000?style=flat-square&logo=linux&logoColor=white" height="28" />  
+<img src="https://img.shields.io/badge/Wayland-Ecosystem-ffb300?style=flat-square&logo=wayland&logoColor=black" height="28" />  
+<img src="https://img.shields.io/badge/Linux-Boot_Process-4caf50?style=flat-square" height="28" />  
+<img src="https://img.shields.io/badge/Userland-Tools_%26_Scripts-607d8b?style=flat-square" height="28" />
 
 </details>
 
-
 <br>
+
 <details>
-    <summary><strong>| 💻 设备</strong></summary>
+<summary><strong>| 💻 设备</strong></summary>
 
-[![Intel](https://img.shields.io/badge/Intel_Core_i5--12450H-0071C5?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com) [![NVIDIA](https://img.shields.io/badge/RTX_4060_Laptop-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com) [![RAM](https://img.shields.io/badge/16GB-RAM-555555?style=flat-square&logo=gnubash&logoColor=white)]()
+[![Intel](https://img.shields.io/badge/Intel_Core_i5--12450H-0071C5?style=flat-square&logo=intel&logoColor=white)](https://www.intel.com)  [![NVIDIA](https://img.shields.io/badge/RTX_4060_Laptop-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://www.nvidia.com)  [![RAM](https://img.shields.io/badge/16GB-RAM-555555?style=flat-square)]()
 
-### | 🧠 开发环境
+### | 🧠 系统结构
+[![Arch](https://skillicons.dev/icons?i=arch,wayland&theme=light)](https://skillicons.dev)  
 
-[![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)](https://archlinux.org) [![KDE](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)](https://kde.org/plasma-desktop/) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com)
+<img src="https://img.shields.io/badge/Windows_11-Secondary_System-0078D6?style=flat-square&logo=windows11&logoColor=white" height="28" />
 
 ---
 
 ### | 🎮 日常游戏系统
+[![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)  [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com)
 
-[![Windows 11](https://img.shields.io/badge/Windows_11-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/windows) [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com)
+喜欢在静谧中深入一段旅程，
 
-喜欢在静谧中深入一段旅程，  
-
-![Monster Hunter](https://img.shields.io/badge/怪物猎人_世界%20%26%20荒野-5c5c5c?style=flat-square&logo=capcom&logoColor=white) ![Hollow Knight](https://img.shields.io/badge/空洞骑士-1E1E1E?style=flat-square&logo=ghost&logoColor=white) ![Ori](https://img.shields.io/badge/Ori%20Series-6C4EC6?style=flat-square&logo=xbox&logoColor=white) ![Stellaris](https://img.shields.io/badge/群星-000000?style=flat-square&logo=paradoxinteractive&logoColor=white) ![Terraria](https://img.shields.io/badge/Terraria-5DA85D?style=flat-square&logo=treehouse&logoColor=white) ![PCL2 Minecraft](https://img.shields.io/badge/PCL2_Minecraft-009688?style=flat-square&logo=minecraft&logoColor=white)
+![Monster Hunter](https://img.shields.io/badge/怪物猎人_世界%20%26%20荒野-5c5c5c?style=flat-square&logo=capcom&logoColor=white)  ![Hollow Knight](https://img.shields.io/badge/空洞骑士-1E1E1E?style=flat-square)  ![Silksong](https://img.shields.io/badge/空洞骑士_丝之歌-2C2C2C?style=flat-square)  ![Ori](https://img.shields.io/badge/Ori%20Series-6C4EC6?style=flat-square&logo=xbox&logoColor=white)  
+![Stellaris](https://img.shields.io/badge/群星-000000?style=flat-square&logo=paradoxinteractive&logoColor=white)  ![Terraria](https://img.shields.io/badge/Terraria-5DA85D?style=flat-square)  ![Minecraft](https://img.shields.io/badge/Minecraft_HMCL-009688?style=flat-square&logo=minecraft&logoColor=white)
 
 也会偶尔陷进某段温柔而疯狂的故事——
 
-![Galgame](https://img.shields.io/badge/Galgame%20Lover-EC407A?style=flat-square&logo=visualstudiocode&logoColor=white) ![近月少女的礼仪](https://img.shields.io/badge/近月少女的礼仪-FC8EAC?style=flat-square&logoColor=white) ![死馆](https://img.shields.io/badge/死馆-3E3A39?style=flat-square&logoColor=white)
-
----
-
-### | 📘 学习系统
-
-[![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows) [![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://www.vmware.com)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com) [![eNSP](https://img.shields.io/badge/eNSP-Huawei-CA1616?style=flat-square&logo=huawei&logoColor=white)](https://support.huawei.com/enterprise/zh/ensp-pid-9017383)
+![近月少女的礼仪](https://img.shields.io/badge/近月少女的礼仪-FC8EAC?style=flat-square)  ![死馆](https://img.shields.io/badge/死馆-3E3A39?style=flat-square)  ![异想魅惑](https://img.shields.io/badge/异想魅惑-8E44AD?style=flat-square)  ![美少女万华镜](https://img.shields.io/badge/美少女万华镜_一-2C3E50?style=flat-square)
 
 ---
 
 ### 📱 移动设备 & 外设
-
-[![OPPO Reno ACE](https://img.shields.io/badge/OPPO_Reno_ACE-009688?style=flat-square&logo=oppo&logoColor=white)](https://www.oppo.com) [![OnePlus Pad](https://img.shields.io/badge/OnePlus_Pad-EB0029?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com) [![Edifier WNB820](https://img.shields.io/badge/Edifier_WNB820-000000?style=flat-square&logo=edifier&logoColor=white)](https://www.edifier.com) [![前行者 X87 Ultra](https://img.shields.io/badge/前行者_X87_Ultra-FF69B4?style=flat-square&logo=mechanical-keyboard&logoColor=white)](https://item.taobao.com/item.htm?id=720931275829)
-
+[![OPPO](https://img.shields.io/badge/OPPO_Reno_ACE-009688?style=flat-square&logo=oppo&logoColor=white)](https://www.oppo.com)  [![OnePlus](https://img.shields.io/badge/OnePlus_Pad-EB0029?style=flat-square&logo=oneplus&logoColor=white)](https://www.oneplus.com)  [![Edifier](https://img.shields.io/badge/Edifier_WNB820-000000?style=flat-square)](https://www.edifier.com)  [![Keyboard](https://img.shields.io/badge/前行者_X87_Ultra-FF69B4?style=flat-square)]()
 
 </details>
+
 
 ### | 留给那些 ![注定](https://img.shields.io/badge/注定-2c2c2c?style=flat-square&labelColor=2c2c2c&color=9e9e9e) 与 ![我](https://img.shields.io/badge/我-000000?style=flat-square&labelColor=ffffff&color=000000) ~~相遇~~ 的 ![你](https://img.shields.io/badge/你-e91e63?style=flat-square&labelColor=ffffff&color=e91e63) ✉️
 
@@ -111,11 +117,3 @@
 > [2024-06-09 08:48:29]  
 > "这不是你亲手开启的故事吗？"
 ```
-
-
-
-
-
-
-
-
