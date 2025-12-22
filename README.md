@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakura" alt="Typing SVG" />
 </a>
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="40%" style="margin-right: 200px;"/>
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="30%" style="margin-right: 400px;"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine)
 
@@ -10,10 +10,9 @@
 
 ### | ❝ 被你读到的这一页 ❞
 
+🌸
 有些人注定行走于消逝的路途，执念于未能久留的痕迹；  
 我在梦中徘徊，试图触碰那虚无中残存的温度, 留恋那些真实而稍纵即逝的瞬间。
-
-> 右边的丑照已经是哥布林这辈子最好看的时刻了）
 
 ---
 
@@ -112,6 +111,7 @@
 > [2024-06-09 08:48:29]  
 > "这不是你亲手开启的故事吗？"
 ```
+
 
 
 
