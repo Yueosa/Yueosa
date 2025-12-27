@@ -9,6 +9,70 @@
 ![Yueosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yueosa&show_icons=true&theme=catppuccin_latte)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-323%20hrs%2057%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-353.5%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 595.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 817 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+🌆 Daytime                794 commits         ███████████░░░░░░░░░░░░░░   43.70 % 
+🌃 Evening                803 commits         ███████████░░░░░░░░░░░░░░   44.19 % 
+🌙 Night                  116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   353 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Tuesday                  328 commits         █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Wednesday                237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Thursday                 322 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+Friday                   175 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Saturday                 211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Sunday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Rust                     9 hrs 32 mins       ██████████████░░░░░░░░░░░   57.97 % 
+Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+HTML                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+CSS                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+TOML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+
+🔥 Editors: 
+VS Code                  16 hrs 27 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    16 hrs 27 mins      █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/Yueosa/Yueosa/main/assets/bar_graph.png)
+
+
+ Last Updated on 27/12/2025 11:07:14 UTC
 <!--END_SECTION:waka-->
 
 ### | ❝ 被你读到的这一页 ❞
