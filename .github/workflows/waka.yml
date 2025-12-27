@@ -25,7 +25,7 @@ jobs:
           # 显示迄今为止编写的代码行数
           SHOW_LINES_OF_CODE: "True"
           # 个人资料视图
-          SHOW_PROFILE_VIEW: "False"
+          SHOW_PROFILE_VIEWS: "False"
           # 提交内容具体时间的图表
           SHOW_COMMIT: "False"
           # 每周提交日期的图表
