@@ -1,5 +1,5 @@
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakura" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakurine" alt="Typing SVG" />
 </a>
 
 <img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="30%" style="margin-right: 400px;"/>
