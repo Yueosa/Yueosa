@@ -8,6 +8,9 @@
 
 ![Yueosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yueosa&show_icons=true&theme=catppuccin_latte)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### | ❝ 被你读到的这一页 ❞
 
 🌸
@@ -117,3 +120,4 @@
 > [2024-06-09 08:48:29]  
 > "这不是你亲手开启的故事吗？"
 ```
+
