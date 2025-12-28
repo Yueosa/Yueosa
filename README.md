@@ -24,7 +24,7 @@
         在命令行与代码中练习沉默，也努力找回表达。
       </p>
       <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=default" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine" />
     </td>
     <td valign="top" width="40%" align="right">
       <img src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="100%" style="border-radius: 8px;" />
