@@ -24,8 +24,7 @@
       </p>
       <br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine" />
-      <br><br>
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yueosa&show_icons=true&theme=dracula" />
+      <br>
     </td>
     <td valign="top" width="25%" align="right">
       <img src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="100%" style="border-radius: 8px;" />
