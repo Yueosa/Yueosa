@@ -14,7 +14,7 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td valign="top" width="60%">
-      <h3>| 总在 <img src="https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000" /> ，也总在 <img src="https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63" /></h3>
+      <h3>    | 总在 <img src="https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000" /> ，也总在 <img src="https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63" /></h3>
       <blockquote>
         “终有尽头，愿你能见我”<br>
         ...在走向终点的路上，还想试着做些什么
