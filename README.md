@@ -21,10 +21,10 @@
 在命令行与代码中练习沉默，也努力找回表达。
 
 <br/>
-<br/>
 
 ![小恋的常用语言](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yueosa&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&theme=transparent&title_color=ff8ab3&text_color=f06292)
 
+<br/>
 
 ![小恋的 GitHub 统计](https://github-readme-stats-eight-theta.vercel.app/api?username=Yueosa&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff8ab3&text_color=f06292&icon_color=ffb3d9)
 
