@@ -2,7 +2,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakurine" alt="Typing SVG" />
 </a>
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="30%" style="margin-right: 400px;"/>
+### | ❝ 被你读到的这一页 ❞
+
+🌸
+有些人注定行走于消逝的路途，执念于未能久留的痕迹；  
+我在梦中徘徊，试图触碰那虚无中残存的温度, 留恋那些真实而稍纵即逝的瞬间。
+
+---
+
+### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
+> “终有尽头，愿你能见我”  
+...在走向终点的路上，还想试着做些什么  
+
+正在 Arch Linux 环境中安静地搭建一切，  
+在命令行与代码中练习沉默，也努力找回表达。
+
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="30%"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine)
 
@@ -30,21 +45,6 @@ Linux                    23 hrs 2 mins       ███████████�
 
 <!--END_SECTION:waka-->
 
-### | ❝ 被你读到的这一页 ❞
-
-🌸
-有些人注定行走于消逝的路途，执念于未能久留的痕迹；  
-我在梦中徘徊，试图触碰那虚无中残存的温度, 留恋那些真实而稍纵即逝的瞬间。
-
----
-
-### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
-> “终有尽头，愿你能见我”  
-...在走向终点的路上，还想试着做些什么  
-
-正在 Arch Linux 环境中安静地搭建一切，  
-在命令行与代码中练习沉默，也努力找回表达。  
-
 ---
 
 
@@ -52,29 +52,20 @@ Linux                    23 hrs 2 mins       ███████████�
 <summary><strong>| 🛠️ 技术经验</strong></summary>
 
 > 有经验不等于精通  
-> 学得越深，越知道世界的边界在哪里
+> 学得越深，越知道自己的无能
 
 ---
 
 ### | 🧾 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,rust&theme=light)](https://skillicons.dev)  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,md,scss&theme=light)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/Assembly-Low_Level-555555?style=flat-square" height="28" />
+[![My Skills](https://skillicons.dev/icons?i=python,c,rust,bash,md&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts&theme=light)](https://skillicons.dev)  
 
 ---
 
 ### | 🔧 Frameworks & Tools
-[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,nuxt,vue,nodejs&theme=light)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi,nuxt,vue&theme=light)](https://skillicons.dev)  
 [![My Skills](https://skillicons.dev/icons?i=git,vscode,vim&theme=light)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/Valaxy-Blog_Framework-42b883?style=flat-square" height="28" />  
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />
-
----
-
-### | 📚 Libraries & Packages
-[![My Skills](https://skillicons.dev/icons?i=pytorch,opencv&theme=light)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="28" />  
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" height="28" />
+<img src="https://img.shields.io/badge/Valaxy-Blog_Framework-42b883?style=flat-square" height="28" />  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28" />
 
 ---
 
@@ -82,14 +73,6 @@ Linux                    23 hrs 2 mins       ███████████�
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,github&theme=light)](https://skillicons.dev)
 
 ---
-
-### | ☁️ Environment & Systems
-[![My Skills](https://skillicons.dev/icons?i=arch,linux,windows,wayland&theme=light)](https://skillicons.dev)  
-<img src="https://img.shields.io/badge/Hyprland-Wayland_Compositor-7f52ff?style=flat-square" height="28" />  
-<img src="https://img.shields.io/badge/Linux-System_Tuning-000000?style=flat-square&logo=linux&logoColor=white" height="28" />  
-<img src="https://img.shields.io/badge/Wayland-Ecosystem-ffb300?style=flat-square&logo=wayland&logoColor=black" height="28" />  
-<img src="https://img.shields.io/badge/Linux-Boot_Process-4caf50?style=flat-square" height="28" />  
-<img src="https://img.shields.io/badge/Userland-Tools_%26_Scripts-607d8b?style=flat-square" height="28" />
 
 </details>
 
@@ -102,8 +85,6 @@ Linux                    23 hrs 2 mins       ███████████�
 
 ### | 🧠 系统结构
 [![Arch](https://skillicons.dev/icons?i=arch,wayland&theme=light)](https://skillicons.dev)  
-
-<img src="https://img.shields.io/badge/Windows_11-Secondary_System-0078D6?style=flat-square&logo=windows11&logoColor=white" height="28" />
 
 ---
 
@@ -130,7 +111,7 @@ Linux                    23 hrs 2 mins       ███████████�
 ### | 留给那些 ![注定](https://img.shields.io/badge/注定-2c2c2c?style=flat-square&labelColor=2c2c2c&color=9e9e9e) 与 ![我](https://img.shields.io/badge/我-000000?style=flat-square&labelColor=ffffff&color=000000) ~~相遇~~ 的 ![你](https://img.shields.io/badge/你-e91e63?style=flat-square&labelColor=ffffff&color=e91e63) ✉️
 
 
-[![Bilibili](https://img.shields.io/badge/The--Herta-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/433677987) [![Twitter](https://img.shields.io/badge/@Yosa04942475621-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Yosa04942475621) [![Email](https://img.shields.io/badge/Email-me-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yichegnxin7@gmail.com)
+[![Bilibili](https://img.shields.io/badge/Sakurine-FB7299.svg?style=for-the-badge&logo=Bilibili&logoColor=white)](https://space.bilibili.com/433677987) [![Twitter](https://img.shields.io/badge/@Yosa04942475621-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Yosa04942475621) [![Email](https://img.shields.io/badge/Email-me-0078D4?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:yichegnxin7@gmail.com)
 
 ---
 
@@ -139,4 +120,3 @@ Linux                    23 hrs 2 mins       ███████████�
 > [2024-06-09 08:48:29]  
 > "这不是你亲手开启的故事吗？"
 ```
-
