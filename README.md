@@ -23,8 +23,8 @@
         在命令行与代码中练习沉默，也努力找回表达。
       </p>
     </td>
-    <td valign="top" width="250px">
-      <img src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="100%"/>
+    <td valign="top" width="300px">
+      <img src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="50%"/>
     </td>
   </tr>
 </table>
