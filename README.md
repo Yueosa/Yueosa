@@ -16,18 +16,24 @@
     <td width="2%"></td>
 
     <td valign="top" width="63%">
-      <h3>| 总在 <img src="https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000" /> ，也总在 <img src="https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63" /></h3>
-      <blockquote>
-        “终有尽头，愿你能见我”<br>
-        ...在走向终点的路上，还想试着做些什么
-      </blockquote>
-      <p>
-        正在 Arch Linux 环境中安静地搭建一切，<br>
-        在命令行与代码中练习沉默，也努力找回表达。
-      </p>
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=dracula" />
-    </td>
+
+### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
+
+> “终有尽头，愿你能见我”  
+> ...在走向终点的路上，还想试着做些什么  
+
+正在 Arch Linux 环境中安静地搭建一切，  
+在命令行与代码中练习沉默，也努力找回表达。
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=dracula" />
+
+<br>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Yueosa&show_icons=true&theme=dracula" />
+
+   </td>
 
     <td valign="top" width="35%" align="right">
       <img src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="100%" style="border-radius: 8px;" />
