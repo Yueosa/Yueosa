@@ -21,8 +21,9 @@
 在命令行与代码中练习沉默，也努力找回表达。
 
 <br/>
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine)
 
 ![Yueosa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yueosa&show_icons=true&theme=dracula)
 
