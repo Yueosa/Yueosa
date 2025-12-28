@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yueosa&layout=compact&theme=rose_pine)
+![小恋的 GitHub 统计](https://github-readme-stats.vercel.app/api?username=Yueosa&show_icons=true&count_private=true&include_all_commits=true&bg_color=00000000&title_color=ff8ab3&text_color=f06292&icon_color=ffb3d9&border_color=ff8ab3)
 
 ![Yueosa's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Yueosa&show_icons=true&theme=dracula)
 
