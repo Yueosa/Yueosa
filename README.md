@@ -34,7 +34,23 @@
 
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-357.68%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2040%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-359.85%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 1 hr 18 mins        █████████░░░░░░░░░░░░░░░░   36.68 % 
+Rust                     1 hr 15 mins        █████████░░░░░░░░░░░░░░░░   35.31 % 
+Python                   42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+TOML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+
+💻 Operating System: 
+Linux                    3 hrs 35 mins       █████████████████████████   100.00 % 
+```
 
 
 <!--END_SECTION:waka-->
