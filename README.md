@@ -10,7 +10,8 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="30%">
+
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/img-ba.png" width="50%">
 
 ### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
 
@@ -25,6 +26,10 @@
 (绝对不是因为小男娘才来学的Rust)
 
 <br/>
+
+---
+
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="37%">
 
 ![小恋的常用语言](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yueosa&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&theme=transparent&title_color=ff8ab3&text_color=f06292)
 
