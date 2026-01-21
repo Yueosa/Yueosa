@@ -29,7 +29,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Sakurine.jpg" width="37%">
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Qianxiao.jpg" width="37%">
 
 ![小恋的常用语言](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yueosa&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&theme=transparent&title_color=ff8ab3&text_color=f06292)
 
