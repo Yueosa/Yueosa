@@ -18,9 +18,9 @@
 > “终有尽头，愿你能见我”  
 > ...在走向终点的路上，还想试着做些什么  
 
-最近正在开发 `lianwall` `lianwall-gui`
+最近完成的开发 `lianwall` `lianwall-gui` `YukiLog` `lianpkg`
 
-以及自己的博客系统 `YukiLog`
+正在进行的开发 `LianWorld (Lwd)`
 
 马上毕业了...只是臭大专生...
 
