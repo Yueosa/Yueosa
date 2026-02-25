@@ -40,22 +40,22 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-572%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-578%20hrs%2059%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-459.68%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-462.66%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 8 hrs 32 mins       ██████████░░░░░░░░░░░░░░░   38.56 % 
-Rust                     4 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-Astro                    3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-TOML                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Bash                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown                 9 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.23 % 
+Rust                     6 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+Astro                    3 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Other                    1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+TOML                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Linux                    22 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    26 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 
