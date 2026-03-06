@@ -20,11 +20,11 @@
 
 最近完成的开发 `lianwall` `lianwall-gui` `YukiLog` `lianpkg`
 
-正在进行的开发 `LianWorld (Lwd)`
+正在进行的开发 `LianWorld (Lwd)` `LianBot`
 
-马上毕业了...只是臭大专生...
+学会AI之后逐渐从底层小码农转变为系统架构师
 
-每天焦虑哭哭哭
+但还是喜欢造轮子开发, 不喜欢对接别人写的非常烂的服务
 
 <br/>
 
