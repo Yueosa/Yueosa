@@ -23,7 +23,7 @@ jobs:
           # 显示更新日期
           SHOW_UPDATED_DATE: "False"
           # 显示迄今为止编写的代码行数
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           # 个人资料视图
           SHOW_PROFILE_VIEWS: "False"
           # 提交内容具体时间的图表
