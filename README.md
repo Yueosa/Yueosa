@@ -44,7 +44,7 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 hrs 49 mins      ██████████████████░░░░░░░   72.38 % 
+Markdown                 11 hrs 49 mins      ██████████████████░░░░░░░   72.39 % 
 Python                   2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 Rust                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 hyprlang                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
