@@ -44,14 +44,14 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.20 % 
-Python                   5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.36 % 
-JavaScript               2 hrs 25 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-JSON                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-jsonl                    1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Markdown                 5 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   34.83 % 
+Python                   5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.89 % 
+JavaScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+JSON                     1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+CSS                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 💻 Operating System: 
-Linux                    20 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    16 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 
