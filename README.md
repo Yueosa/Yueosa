@@ -40,6 +40,20 @@
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   9 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   38.41 % 
+Other                    8 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.48 % 
+Markdown                 2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+TOML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+
+💻 Operating System: 
+Linux                    25 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
