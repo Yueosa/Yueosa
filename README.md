@@ -44,14 +44,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   14 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.07 % 
-Other                    10 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-Markdown                 6 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-JavaScript               2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-TOML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   15 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.32 % 
+Other                    13 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.28 % 
+Markdown                 7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+JavaScript               3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+CSS                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
 💻 Operating System: 
-Linux                    39 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    45 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 
