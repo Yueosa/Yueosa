@@ -44,14 +44,14 @@
 
 ```text
 💬 Programming Languages: 
-Python                   15 hrs 57 mins      ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Other                    14 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   30.11 % 
-Markdown                 7 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-JavaScript               4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-CSS                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+Python                   15 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   28.03 % 
+Other                    14 hrs 9 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+Markdown                 9 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+JavaScript               4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Vue                      2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
 
 💻 Operating System: 
-Linux                    48 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    55 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 
