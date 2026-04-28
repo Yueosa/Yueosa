@@ -18,9 +18,9 @@
 > “终有尽头，愿你能见我”  
 > ...在走向终点的路上，还想试着做些什么  
 
-最近完成的开发 `lianwall` `lianwall-gui` `YukiLog` `lianpkg`
+积极学习 rust 语言中
 
-正在进行的开发 `LianWorld (Lwd)` `LianBot`
+最近不会在网络上活跃~ 因为提升自己很忙的!
 
 学会AI之后逐渐从底层小码农转变为系统架构师
 
