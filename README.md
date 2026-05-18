@@ -40,20 +40,6 @@
 
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-QML                      12 hrs              ██████████░░░░░░░░░░░░░░░   40.38 % 
-Other                    5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-Markdown                 5 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Python                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Bash                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-
-💻 Operating System: 
-Linux                    29 hrs 44 mins      █████████████████████████   100.00 % 
-```
-
 
 <!--END_SECTION:waka-->
 
