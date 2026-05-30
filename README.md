@@ -40,6 +40,20 @@
 
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 37 mins             ███████████░░░░░░░░░░░░░░   45.19 % 
+Rust                     13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Other                    12 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
+Python                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+QML                      5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+
+💻 Operating System: 
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
+```
+
 
 <!--END_SECTION:waka-->
 
