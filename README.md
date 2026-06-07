@@ -44,14 +44,10 @@
 
 ```text
 💬 Programming Languages: 
-Text                     1 hr 1 min          ███████████░░░░░░░░░░░░░░   43.18 % 
-Markdown                 48 mins             █████████░░░░░░░░░░░░░░░░   34.05 % 
-Rust                     30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
