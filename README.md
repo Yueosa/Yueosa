@@ -44,10 +44,10 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+QML                      4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 
