@@ -44,10 +44,10 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
