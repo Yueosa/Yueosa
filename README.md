@@ -44,10 +44,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      49 mins             ████████████████░░░░░░░░░   63.02 % 
+Markdown                 24 mins             ████████░░░░░░░░░░░░░░░░░   31.02 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 
