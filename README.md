@@ -44,8 +44,9 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 1 min          █████████████████████████   98.16 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Markdown                 1 hr 1 min          ████████████████████████░   97.69 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 💻 Operating System: 
 Linux                    1 hr 1 min          █████████████████████████   100.00 % 
