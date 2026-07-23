@@ -1,7 +1,3 @@
-<a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ZCOOL+XiaoWei&size=26&pause=1000&duration=10000&color=BB5FBF&width=700&lines=Find+Me+...+Your+End+...+My+Origin+...+–+Sakurine" alt="Typing SVG" />
-</a>
-
 ### | ❝ 被你读到的这一页 ❞
 
 🌸
@@ -16,15 +12,19 @@
 ### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
 
 > “终有尽头，愿你能见我”  
-> ...在走向终点的路上，还想试着做些什么  
+> ...在走向终点的路上，还想试着做些什么
 
-积极学习 rust 语言中
+严肃学习 rust 语言, 操作系统, 数电基础 ...
 
-最近不会在网络上活跃~ 因为提升自己很忙的!
+最近正在研究如何在 Minecraft 中实现一个 CPU
 
-学会AI之后逐渐从底层小码农转变为系统架构师
+喜欢所有底层的东西, 想亲手创造生活中的一切美好
 
-但还是喜欢造轮子开发, 不喜欢对接别人写的非常烂的服务
+<div align="right">
+
+AI 画的小恋 ->
+</div>
+
 
 <br/>
 
