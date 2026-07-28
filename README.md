@@ -40,6 +40,8 @@ AI 画的小恋 ->
 
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%2022%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -52,6 +54,29 @@ TOML                     25 mins             █░░░░░░░░░░�
 
 💻 Operating System: 
 Linux                    9 hrs 33 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 7 hrs 4 mins (73.9%)
+
+✍️ 5,574 lines written by AI, 269 lines written by hand (95.4% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 78 AI Prompts
+
+Cursor                   6,092 lines         █████████████████████████   99.72 % 
+Grok                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.4% of written lines came from AI
+📝 Concise Prompter — average 482 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.32% of changed lines were hand-edited
 ```
 
 
