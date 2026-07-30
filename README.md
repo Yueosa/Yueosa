@@ -1,8 +1,14 @@
 ### | ❝ 被你读到的这一页 ❞
 
-🌸
-有些人注定行走于消逝的路途，执念于未能久留的痕迹；  
-我在梦中徘徊，试图触碰那虚无中残存的温度, 留恋那些真实而稍纵即逝的瞬间。
+> 🌸
+> 有些人注定行走于消逝的路途，执念于未能久留的痕迹；  
+> 我在梦中徘徊，试图触碰那虚无中残存的温度, 留恋那些真实而稍纵即逝的瞬间。
+
+我写下了很多博客, 代码, 文档 ...
+
+他们像是一封封没有收件人的信, 我不知道谁会读到, 也不知道是否真的会有人读到, 但我还是很认真的写着
+
+
 
 ---
 
@@ -11,20 +17,21 @@
 
 ### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
 
-> “终有尽头，愿你能见我”  
-> ...在走向终点的路上，还想试着做些什么
+>  这里记录着我走过的路。
+>
+> 如果你能从这些代码、文字与痕迹里看见我，
+> 那便已经足够
 
-严肃学习 rust 语言, 操作系统, 数电基础 ...
+喜欢研究那些藏在表面之下的东西
 
-最近正在研究如何在 Minecraft 中实现一个 CPU
+从 Rust、Linux、数电, 到 Minecraft 里的 CPU
 
-喜欢所有底层的东西, 想亲手创造生活中的一切美好
+我总觉得, 理解一件事是如何诞生的
+比单纯学会使用它更有趣
 
-<div align="right">
+也许正因如此, 我总在重复造轮子
 
-AI 画的小恋 ->
-</div>
-
+把很多时间花在没人会注意到的地方
 
 <br/>
 
@@ -55,30 +62,6 @@ TOML                     23 mins             █░░░░░░░░░░�
 💻 Operating System: 
 Linux                    8 hrs 32 mins       █████████████████████████   100.00 % 
 ```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 6 hrs 3 mins (70.97%)
-
-✍️ 3,896 lines written by AI, 260 lines written by hand (93.74% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 5 AI Sessions, 65 AI Prompts
-
-Cursor                   4,357 lines         █████████████████████████   99.61 % 
-Grok                     17 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.74% of written lines came from AI
-📝 Concise Prompter — average 493 characters per prompt
-🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 8.12% of changed lines were hand-edited
-```
-
 
 <!--END_SECTION:waka-->
 
