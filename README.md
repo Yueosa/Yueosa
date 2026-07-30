@@ -13,7 +13,9 @@
 ---
 
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/img-ba.png" width="50%">
+
+
+<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Qianxiao.jpg" width="37%">
 
 ### | 总在 ![学习](https://img.shields.io/badge/学习-000000?style=flat-square&labelColor=ffffff&color=000000) ，也总在 ![迷路](https://img.shields.io/badge/迷路-e91e63?style=flat-square&labelColor=ffffff&color=e91e63)
 
@@ -37,20 +39,13 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Yueosa/Yueosa/main/Qianxiao.jpg" width="37%">
+
 
 ![小恋的常用语言](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Yueosa&layout=compact&langs_count=12&hide=html,Jupyter%20Notebook,MATLAB&theme=transparent&title_color=ff8ab3&text_color=f06292)
 
 <br/>
 
 ![小恋的 GitHub 统计](https://github-readme-stats-eight-theta.vercel.app/api?username=Yueosa&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&title_color=ff8ab3&text_color=f06292&icon_color=ffb3d9)
-
-
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%2022%20mins-blue?style=flat)
-
-
-<!--END_SECTION:waka-->
 
 ---
 
