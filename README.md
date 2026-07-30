@@ -49,19 +49,6 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-221%20hrs%2022%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 48 mins       ██████████████░░░░░░░░░░░   56.26 % 
-YAML                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Rust                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-TOML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-
-💻 Operating System: 
-Linux                    8 hrs 32 mins       █████████████████████████   100.00 % 
-```
 
 <!--END_SECTION:waka-->
 
